@@ -1,0 +1,8 @@
+next
+next
+
+desmarca git gui here, (interface grafica)
+
+
+choose a credential   helper
+marca none( git vai fazer o proprio controle do credenciamento dele)
